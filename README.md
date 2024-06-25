@@ -3,7 +3,6 @@
 <p align="center">
 <img 
     src="./assets/banner.png"
-    width="400"  
 />
 </p>
 
