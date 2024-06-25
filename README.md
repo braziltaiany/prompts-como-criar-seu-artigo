@@ -49,7 +49,7 @@ Copilot：
 
 ## 🛠️ Instruções de execução
 
-Empregue os prompts mencionados utilizando as ferramentas recomendadas para gerar o conteúdo base e utilize um software de edição de documentos, como o PowerPoint, para realizar a diagramação e edição.
+Empregue os prompts mencionados utilizando as ferramentas recomendadas para gerar o conteúdo base e utilize um software de edição de documentos, como o PowerPoint ou Canva, para realizar a edição do banner e estruturação do artigo. Escolha uma mídia social para postar seu artigo.
 
 
 
